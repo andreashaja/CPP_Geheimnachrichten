@@ -1,10 +1,12 @@
-# Geheime Nachrichten erzeugen (Projekt für Anfänger in C++)
+# Geheime Nachrichten erzeugen - Ein Projekt für Anfänger in C++
 
 Du kannst alle Code-Listings direkt in deinem Browser ausführen unter [FearlessEngineers.de](https://www.fearlessengineers.de).
 
-## Projekt 1 zum Lernheft "Programmieren lernen mit Projekten : C++"
+Eine ausführliche Beschreibung aller Code-Listings inkl. der nötigen Programmier-Basics findest du im folgenden Lernheft: 
 
-<img src="bilder/buch-cpp.jpg" alt="alternativer Text" style="width:50%;"/>
+<a href="https://go.tfe.academy/cpp_lernheft"><img src="bilder/buch-cpp.jpg" alt="Lerne C++ mit Projekten" width="180"></a>
+
+**Worum geht es?**
 
 In vielen Kursen zum Einstieg in die Programmierung werden die einzelnen Konzepte in einer festen Reihenfolge eingeführt: Meistens geht es los mit einer ausführlichen Einführung in Datentypen und Operatoren sowie Dinge wie Konstanten, Typumwandlungen oder Speicherbedarf.
 
@@ -24,3 +26,5 @@ In diesem ersten Projekt wirst du ein Programm zur Verschlüsselung von Textnach
 ---
 
 Die Umsetzung des Projekts besteht aus 4 Teilen, die im Lernheft ab Seite 43 detailliert beschrieben sind.
+
+Fragen und Anregungen gerne an kontakt@andreashaja.com.
