@@ -4,7 +4,7 @@ Du kannst alle Code-Listings direkt in deinem Browser ausführen unter [Fearless
 
 ## Projekt 1 zum Lernheft "Programmieren lernen mit Projekten : C++"
 
-<img src="lpmp-cpp.jpg.jpg" alt="alternativer Text" style="width:50%;"/>
+<img src="bilder/buch-cpp.jpg" alt="alternativer Text" style="width:50%;"/>
 
 In vielen Kursen zum Einstieg in die Programmierung werden die einzelnen Konzepte in einer festen Reihenfolge eingeführt: Meistens geht es los mit einer ausführlichen Einführung in Datentypen und Operatoren sowie Dinge wie Konstanten, Typumwandlungen oder Speicherbedarf.
 
