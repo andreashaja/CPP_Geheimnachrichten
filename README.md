@@ -16,7 +16,7 @@ Das Lernheft "Lerne Programmieren mit Projekten: C++" geht einen anderen Weg: Du
 
 In diesem ersten Projekt wirst du ein Programm zur Verschlüsselung von Textnachrichten schreiben, mit dem du geheime Codes erzeugen kannst, die ohne die richtige Entschlüsselung auf den ersten (und zweiten) Blick nicht lesbar sind.
 
-<img src="bilder/projekt-demo.jpg" alt="Verschlüsselung von Geheim-Botschaften" style="width:100%;"/>
+<img src="bilder/projekt-demo.jpg" alt="Verschlüsselung von Geheim-Botschaften" style="width:75%;"/>
 
 
 **Das kannst du nach diesem Kapitel:**
