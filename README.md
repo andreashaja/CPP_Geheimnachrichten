@@ -4,7 +4,7 @@ Du kannst alle Code-Listings direkt in deinem Browser ausführen unter [Fearless
 
 Eine ausführliche Beschreibung aller Code-Listings inkl. der nötigen Programmier-Basics findest du im folgenden Lernheft: 
 
-<a href="https://go.tfe.academy/cpp_lernheft"><img src="bilder/buch-cpp.jpg" alt="Lerne C++ mit Projekten" width="180"></a>
+<a href="https://go.tfe.academy/cpp_lernheft"><img src="bilder/buch-cpp.jpg" alt="Lerne C++ mit Projekten" width="200"></a>
 
 **Worum geht es?**
 
@@ -16,7 +16,7 @@ Das Lernheft "Lerne Programmieren mit Projekten: C++" geht einen anderen Weg: Du
 
 In diesem ersten Projekt wirst du ein Programm zur Verschlüsselung von Textnachrichten schreiben, mit dem du geheime Codes erzeugen kannst, die ohne die richtige Entschlüsselung auf den ersten (und zweiten) Blick nicht lesbar sind.
 
-<img src="bilder/projekt-demo.jpg" alt="Verschlüsselung von Geheim-Botschaften" style="width:75%;"/>
+<img src="bilder/projekt-demo.jpg" alt="Verschlüsselung von Geheim-Botschaften" style="width:50%;"/>
 
 
 **Das kannst du nach diesem Kapitel:**
