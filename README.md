@@ -19,7 +19,7 @@ In diesem ersten Projekt wirst du ein Programm zur Verschlüsselung von Textnach
 <img src="bilder/projekt-demo.jpg" alt="Verschlüsselung von Geheim-Botschaften" style="width:50%;"/>
 
 
-**Das kannst du nach diesem Kapitel:**
+**Das kannst du nach diesem Projekt:**
 
 - Das Grundgerüst eines Programms schreiben.
 - Variablen definieren und mit Operatoren verändern und vergleichen.
